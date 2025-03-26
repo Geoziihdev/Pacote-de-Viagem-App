@@ -38,31 +38,3 @@ O projeto está estruturado da seguinte forma:
 
 4. Siga as instruções no console para cadastrar o pacote de viagem e a venda.
 
-Digite o destino da viagem: Argentina
-Digite o tipo de transporte (Aéreo, Rodoviário, etc.): Aéreo
-Digite o preço do transporte: 1000
-Digite o tipo de hospedagem: Hotel
-Digite o preço por noite da hospedagem: 250
-Digite a quantidade de dias da hospedagem: 4
-Digite a margem de lucro (em %): 10
-Digite o valor das taxas adicionais: 300
-
---- Detalhes do Pacote de Viagem ---
-Destino: Argentina
-Tipo de transporte: Aéreo
-Preço do transporte: 1000.0
-Tipo de hospedagem: Hotel
-Preço por noite: 250.0
-Total de hospedagem: 1000.0
-Total do pacote (dólar): 2500.0
-
-Digite o nome do cliente: Geovana
-Digite a forma de pagamento: Dinheiro
-Digite a cotação atual do dólar: 5.78
-
---- Detalhes da Venda ---
-Cliente: Geovana
-Forma de pagamento: Dinheiro
-Valor total do pacote em dólar: 2500.0
-Valor total do pacote em reais: 11560.0
-
