@@ -30,7 +30,7 @@ O projeto está estruturado da seguinte forma:
 
 1. Clone este repositório para sua máquina local:
    ```bash
-   git clone <URL do seu repositório>
+   git clone <https://github.com/Geoziihdev/Pacote-de-Viagem-App.git>
    
 2. Abra o projeto no NetBeans ou qualquer IDE de sua preferência.
 
